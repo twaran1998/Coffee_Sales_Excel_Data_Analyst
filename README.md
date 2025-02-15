@@ -1,2 +1,2 @@
 # Excel_Data_Analyst
-!(/Resources/Excel_Coffee.mp4)
+![1_Salary_Dashboard.png](/Resources/Excel_Coffee.mp4)

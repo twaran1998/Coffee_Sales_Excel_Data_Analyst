@@ -39,9 +39,11 @@ This project analyzes sales performance for a coffee shop chain using Microsoft 
 - Use Power BI for more advanced visualizations  
 - Automate data import using Excel macros  
 
-## 🔗 Connect with Me  
-- **LinkedIn:** [Twaran Sahai](https://www.linkedin.com/in/twaransahai)  
-- **GitHub:** [twaransahai](https://github.com/twaransahai)  
+### 🔗 **Portfolio & Social Links:**  
+- [LinkedIn](https://www.linkedin.com/in/twaransahai/)  
+- [GitHub](https://github.com/twaran1998)  
+- [Portfolio](https://twaransahai-portfolio-ts.netlify.app/)
+- [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/Business_Analyst_Resume.pdf) 
 
 ---
 **Why I Am a Strong Fit for Data and Business Analyst Roles:**  

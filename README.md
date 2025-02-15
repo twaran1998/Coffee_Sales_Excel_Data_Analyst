@@ -9,7 +9,6 @@ This project analyzes sales performance for a coffee shop chain using Microsoft 
 - **Total Footfall:** 149,116  
 - **Average Bill per Person:** 4.69  
 - **Average Order per Person:** 1.44  
-![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20-%20Dashboard.png)
 
 ## 📈 Key Insights  
 - **Peak Sales Hours:** 8 AM to 10 AM (highest quantity ordered)  

@@ -42,7 +42,7 @@ This project analyzes sales performance for a coffee shop chain using Microsoft 
 - [LinkedIn](https://www.linkedin.com/in/twaransahai/)  
 - [GitHub](https://github.com/twaran1998)  
 - [Portfolio](https://twaransahai-portfolio-ts.netlify.app/)
-- [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/Business_Analyst_Resume.pdf) 
+- [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/RESUME_TWARAN_SAHAI.pdf) 
 
 ---
 **Why I Am a Strong Fit for Data and Business Analyst Roles:**  

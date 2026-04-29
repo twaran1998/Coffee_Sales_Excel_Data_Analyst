@@ -39,10 +39,10 @@ This project analyzes sales performance for a coffee shop chain using Microsoft 
 - Automate data import using Excel macros  
 
 ### 🔗 **Portfolio & Social Links:**  
-- [LinkedIn](https://www.linkedin.com/in/twaransahai/)  
+- [LinkedIn](www.linkedin.com/in/twaran-sahai-ts) 
 - [GitHub](https://github.com/twaran1998)  
-- [Portfolio](https://twaransahai-portfolio-ts.netlify.app/)
-- [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/RESUME_TWARAN_SAHAI.pdf) 
+- [Portfolio](https://ts-twaransahai-portfolio.netlify.app/)
+- [Resume](https://drive.google.com/file/d/14AqwS7vNUBs6A9Ui82XSSoUUocS_DXkW/view) 
 
 ---
 **Why I Am a Strong Fit for Data and Business Analyst Roles:**  
